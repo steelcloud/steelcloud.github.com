@@ -17,7 +17,7 @@ SteelCloud generally meets at the Confluence building on Pittsburgh's North Shor
 
 #### 600 River Ave
 #### Pittsburgh, PA  15212
-#### &nbsp;
+#### ([map](http://goo.gl/maps/Survl))
 
 You can also checkout our [meetup group](http://www.meetup.com/steelcloud) to check for upcoming events.
 
