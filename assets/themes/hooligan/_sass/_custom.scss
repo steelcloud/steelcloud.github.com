@@ -1,0 +1,24 @@
+/* This is for your Custom Content. */
+
+img.logo {
+    height:32px;
+    width:32px;
+}
+
+/* Layout */
+.navbar {
+  margin-bottom: 0;
+  div.navbar-inner {
+    @include border-radius(0);
+    a.brand {
+        padding:6px 20px;
+    }
+    ul.nav:first-child {
+        li {
+            a {
+                padding:12px 10px 8px;
+            }
+        }
+    }
+  }
+}
